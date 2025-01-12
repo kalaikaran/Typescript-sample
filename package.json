@@ -1,0 +1,14 @@
+{
+  "name": "typescript-sample",
+  "version": "1.0.0",
+  "description": "sample ts",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kalaikaran",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
+}
